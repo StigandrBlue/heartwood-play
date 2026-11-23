@@ -1,0 +1,9 @@
+{
+  "name": "Heartwood",
+  "version": "Alpha 0.0.10",
+  "build_date": "2026-11-23",
+  "engine": "Godot 4.7.2 stable",
+  "renderer": "Compatibility",
+  "web_threads": false,
+  "release_channel": "playtest"
+}
